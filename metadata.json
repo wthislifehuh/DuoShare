@@ -1,0 +1,6 @@
+{
+  "name": "DuoShare",
+  "description": "Secure shared expense manager and financial planner designed specifically for couples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

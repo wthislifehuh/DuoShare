@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Beautiful Centered Pink Couples Heart -->
+    <path
+        android:fillColor="#FF6E7F"
+        android:pathData="M54,30 C46,20 28,20 28,38 C28,56 54,74 54,74 C54,74 80,56 80,38 C80,20 62,20 54,30 Z" />
+
+    <!-- Centered Gold Financial Coin overlapping the heart -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M 54 36 A 10 10 0 1 0 54 56 A 10 10 0 1 0 54 36 Z" />
+
+    <!-- Symmetrical Dark Coin Slot Inside the Coin -->
+    <path
+        android:fillColor="#121416"
+        android:pathData="M 52.5 40 h 3 v 12 h -3 z" />
+
+</vector>
